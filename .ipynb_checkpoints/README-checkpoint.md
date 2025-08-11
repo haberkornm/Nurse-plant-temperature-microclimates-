@@ -6,4 +6,5 @@ Across all four plant species, canopy microclimates consistently exhibited lower
 
 These results demonstrate that nurse plants provide substantial protection from daily temperature extremes, highlighting their role as important environmental stabilizers in desert ecosystems.
 
-[View the interactive plot](https://github.com/haberkornm/Nurse-plant-temperature-microclimates-/blob/main/docs/temperature_deviation.html)
+[Description of image](docs/diff_from_open_combined.png)
+
