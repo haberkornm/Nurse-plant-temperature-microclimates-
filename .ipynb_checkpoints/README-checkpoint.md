@@ -5,10 +5,10 @@ Microclimate ground temperature data were collected beneath the canopies of *Amb
 <img src="docs/diff_from_open_combined.png" alt="Nurse plant microclimate temperature difference from open habitat temperature." width="900">
 
 Across all four plant species, canopy microclimates consistently exhibited lower daily maximum temperatures, higher daily minimum temperatures, and reduced daily temperature ranges compared to open habitats. Nurse plants reduced maximum daily ground temperatures by up to 11.5 °C in summer and 9.9 °C in winter, while minimum temperatures were elevated by up to 3.2 °C in summer and 1.8 °C in winter. All observed temperature differences between canopy microclimates and open habitats were statistically significant (1,000 permutations, p < 0.005).
-
-These results demonstrate that nurse plants provide substantial protection from daily temperature extremes, resulting in stabilized temperature microclimates in desert ecosystems.  These results could also be applied as demonstrations of the potential for desert plants to stabilize and reduce temperatures in urban habitats.  
-
+ 
 <img src="docs/diff_from_mean_combined.png" alt="Nurse plant microclimate temperature difference from mean daily temperature." width="900">
+
+These results demonstrate that nurse plants provide substantial protection from daily temperature extremes, resulting in stabilized temperature microclimates in desert ecosystems.  These results could also be applied as demonstrations of the potential for desert plants to stabilize and reduce temperatures in urban habitats. 
 
 <div align="center">
   <img src="docs/range_diff_from_open.png" width="400"><br>
