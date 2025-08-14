@@ -10,6 +10,10 @@ These results demonstrate that nurse plants provide substantial protection from 
 
 <img src="docs/diff_from_mean_combined.png" alt="Nurse plant microclimate temperature difference from mean daily temperature." width="900">
 
-<img src="docs/range_diff_from_open.png" alt="Nurse plant microclimate daily temperature range difference from open habitat." width="400">
+<p align="right">
+  <img src="docs/range_diff_from_open.png" alt="Nurse plant microclimate daily temperature range difference from open habitat." width="400"><br>
+  <em>Nurse plant microclimate daily temperature range difference from open habitat.</em>
+</p>
+
 <img src="docs/maximum_diff_from_open.png" alt="Nurse plant microclimate daily maximum temperature difference from open habitat." width="400">
 <img src="docs/minimum_diff_from_open.png" alt="Nurse plant microclimate daily minimum temperature difference from open habitat." width="400">
